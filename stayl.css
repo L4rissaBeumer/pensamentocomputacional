@@ -39,3 +39,27 @@ body{
     backgrung-color: #c0c0c0;
 }
 
+footer {
+    text-align: center;
+    background-image: url(bg.jp);
+    padding: 15px 0px;
+
+}
+
+.redes a{
+    mergin: 0 10px;
+    text-decoration: none;
+}
+
+.rede img:hover{
+    transition: 0.5s;
+    transform: scale(2.2);
+    opacity: 60%;
+}
+
+.copyright{
+    font-size: 13px;
+    color: white; 
+    margin-top: 15px;
+}
+
