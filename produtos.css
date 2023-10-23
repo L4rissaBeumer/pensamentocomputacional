@@ -1,0 +1,20 @@
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.produdos li{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin: 0.1%;
+    box-sizing: border-box;
+    border: 2px solid #989787 ;
+    border-radius: center;
+
+}
+    
+    .produtos li:hover{
+        trans
+    }
